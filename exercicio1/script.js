@@ -16,7 +16,7 @@ console.log("Olá, ", nome+ " você tem "+ idade + " anos")
 
 const p1 = "Você está com uma camisa branca? "
 const p2 = "Você gosta de game of thrones? "
-const p3 = "Você está com sono? "
+const p3 = "Você está com sono ? "
 const r1 = prompt(p1)
 const r2 = prompt(p2)
 const r3 = prompt(p3)
